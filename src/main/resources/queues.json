@@ -1,0 +1,21 @@
+{"queues": [{
+  "name": "testytest1",
+  "fifo": false,
+  "encrypted": true,
+  "dlq": true,
+  "dlqName": "1010",
+  "maxDelivery": 3,
+  "orgId": "",
+  "envId": ""
+  },
+{
+  "name": "testytest2",
+  "fifo": true,
+  "encrypted": false,
+  "dlq": false,
+  "dlqName": "tetsts",
+  "maxDelivery": 3,
+  "orgId": "",
+  "envId": ""}
+]
+}
